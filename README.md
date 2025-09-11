@@ -102,14 +102,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60" />
 <br><strong>Bootstrap</strong>
 </td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="60" height="60" />
-<br><strong>Tailwind</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="60" height="60" />
-<br><strong>Sass</strong>
-</td>
 </tr>
 </table>
 
@@ -121,21 +113,13 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="60" height="60" />
 <br><strong>Analytics</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Search Console" width="60" height="60" />
 <br><strong>Search Console</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Tag Manager" width="60" height="60" />
-<br><strong>Tag Manager</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Semrush_logo.svg/512px-Semrush_logo.svg.png" alt="SEMrush" width="60" height="60" />
-<br><strong>SEMrush</strong>
 </td>
 </tr>
 </table>
@@ -144,25 +128,29 @@
 
 <div align="center">
 
-### ⚙️ Development Tools
+### ⚙️ Development Tools & Database
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" />
 <br><strong>GitHub</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" />
 <br><strong>VS Code</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="60" height="60" />
 <br><strong>WordPress</strong>
 </td>
-<td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />
-<br><strong>MySQL</strong>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.png" alt="Supabase" width="60" height="60" />
+<br><strong>Supabase</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" />
+<br><strong>PostgreSQL</strong>
 </td>
 </tr>
 </table>
@@ -292,11 +280,12 @@ Expertise in:
 </div>
 
 <div align="center">
+
+### 🔍 SEO Case Studies & Achievements
+
 <table>
 <tr>
 <td align="center" width="50%">
-
-### 🔍 SEO Case Studies & Achievements
 
 **📚 Educational Platform - Iseie.com**  
 *130K total clicks, 4.48M impressions*  
@@ -309,6 +298,9 @@ Expertise in:
 - CTR: 2.6% with position 20.6
 - Specialized niche targeting
 - Content-focused SEO approach
+
+</td>
+<td align="center" width="50%">
 
 **🏢 Digital Agency - Agenciaia.ai**  
 *12.6K clicks, 314K impressions*  
@@ -323,9 +315,18 @@ Expertise in:
 - High-converting keyword strategy
 
 </td>
-<td align="center" width="50%">
+</tr>
+</table>
+
+</div>
+
+<div align="center">
 
 ### 💻 Development Projects
+
+<table>
+<tr>
+<td align="center" width="50%">
 
 **🌐 App.Opynio.com**  
 *Opinion Platform & Community*  
@@ -334,12 +335,21 @@ Expertise in:
 - Real-time interaction features
 - SEO-optimized architecture
 
+</td>
+<td align="center" width="50%">
+
 **🧠 Psicologoia.ai**  
 *AI-Powered Psychology Platform*  
 - 1.05K clicks, 10.5K impressions
 - 10% CTR with position 14
 - AI integration for mental health
 - Responsive design & optimization
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
@@ -364,11 +374,6 @@ Expertise in:
 </tr>
 </table>
 
-</div>
-
-</td>
-</tr>
-</table>
 </div>
 
 <div align="center">
@@ -447,6 +452,8 @@ maintained consistently
 **🇻🇪 From Venezuela → 🌍 Working Globally**
 
 *Available for freelance projects and collaborations*
+
+![Profile Views](https://komarev.com/ghpvc/?username=diego-landaeta&style=for-the-badge&color=blue)
 
 </div>
 
