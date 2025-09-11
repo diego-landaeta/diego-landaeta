@@ -287,7 +287,7 @@ Expertise in:
 
 <div align="center">
 
-## 🎨 Featured Projects & Goals
+## 🎨 Real SEO Projects & Results
 
 </div>
 
@@ -296,28 +296,118 @@ Expertise in:
 <tr>
 <td align="center" width="50%">
 
-### 🔍 SEO Projects
-- **Technical SEO Analyzer** 🛠️  
-  *React-based audit tool*
-- **Keyword Research Dashboard** 📊  
-  *Data visualization platform*
-- **Core Web Vitals Monitor** ⚡  
-  *Performance tracking system*
+### 🔍 SEO Case Studies & Achievements
+
+**📚 Educational Platform - Iseie.com**  
+*130K total clicks, 4.48M impressions*  
+- CTR: 2.9% with position 24.9
+- Consistent organic growth over 12 months
+- Educational content optimization strategy
+
+**🧠 Psychology Platform - Psikoaprende.com**  
+*12.7K clicks, 484K impressions*  
+- CTR: 2.6% with position 20.6
+- Specialized niche targeting
+- Content-focused SEO approach
+
+**🏢 Digital Agency - Agenciaia.ai**  
+*12.6K clicks, 314K impressions*  
+- CTR: 4% with position 18.6
+- AI/Tech industry optimization
+- Strong click-through performance
+
+**💭 Psychology Services - Psicologoia.ai**  
+*1.05K clicks, 10.5K impressions*  
+- Exceptional CTR: 10% with position 14
+- Local psychology services optimization
+- High-converting keyword strategy
 
 </td>
 <td align="center" width="50%">
 
 ### 💻 Development Projects
-- **SEO-Optimized Portfolio** 🌐  
-  *React + Node.js showcase*
-- **Client Landing Pages** 🎯  
-  *High-converting designs*
-- **Learning Management System** 📚  
-  *Educational platform*
+
+**🌐 App.Opynio.com**  
+*Opinion Platform & Community*  
+- Full-stack web application
+- User-generated content management
+- Real-time interaction features
+- SEO-optimized architecture
+
+**🧠 Psicologoia.ai**  
+*AI-Powered Psychology Platform*  
+- 1.05K clicks, 10.5K impressions
+- 10% CTR with position 14
+- AI integration for mental health
+- Responsive design & optimization
+
+<div align="center">
+
+### 📁 Repository Previews
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+[![Opynio App](https://github-readme-stats.vercel.app/api/pin/?username=diego-landaeta&repo=opynio-app&theme=radical&hide_border=true)](https://github.com/diego-landaeta/opynio-app)
+
+**🔗 [Live Demo: app.opynio.com](https://app.opynio.com)**
+
+</td>
+<td align="center" width="50%">
+
+[![Psicologoia AI](https://github-readme-stats.vercel.app/api/pin/?username=diego-landaeta&repo=psicologoia-ai&theme=radical&hide_border=true)](https://github.com/diego-landaeta/psicologoia-ai)
+
+**🔗 [Live Demo: psicologoia.ai](https://psicologoia.ai)**
 
 </td>
 </tr>
 </table>
+
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+### 🏆 Proven SEO Performance Metrics
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**📈 Total Clicks**  
+170K+ clicks  
+across all projects
+
+</td>
+<td align="center" width="25%">
+
+**👀 Impressions**  
+5.3M+ impressions  
+generated organically
+
+</td>
+<td align="center" width="25%">
+
+**🎯 Top CTR**  
+10% achieved  
+for specialized niches
+
+</td>
+<td align="center" width="25%">
+
+**📊 Average Position**  
+Top 20 rankings  
+maintained consistently
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <br>
@@ -357,8 +447,6 @@ Expertise in:
 **🇻🇪 From Venezuela → 🌍 Working Globally**
 
 *Available for freelance projects and collaborations*
-
-![Profile Views](https://komarev.com/ghpvc/?username=diego-landaeta&style=for-the-badge&color=blue)
 
 </div>
 
