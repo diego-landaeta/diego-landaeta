@@ -1,199 +1,369 @@
 <div align="center">
 
-# Hello, I'm [Diego Landaeta](https://diego-landaeta.dev) 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:1e40af,100:60a5fa&text=Diego%20Landaeta&descAlign=71&fontColor=ffffff&fontSize=80&fontAlignY=35&desc=SEO%20Specialist%20→%20Full%20Stack%20Developer&descSize=25)
 
 </div>
 
 <div align="center">
 
-### 🔍 **SEO Specialist** → 💻 **Full Stack Developer**
+## 🚀 Bridging SEO & Development for Maximum Impact
+
+*Transforming websites into high-ranking, high-converting digital experiences*
 
 </div>
+
+<br>
+
+<div align="center">
+
+### 📊 About Me
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🔍 SEO Expertise**
+- 5+ years optimizing websites
+- Technical SEO specialist
+- Data-driven strategies
+- International markets focus
+
+</td>
+<td align="center" width="50%">
+
+**💻 Development Journey**
+- Learning modern web technologies
+- SEO-optimized development
+- Performance-first approach
+- Spain + English markets
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
 
 ---
 
+<br>
+
 <div align="center">
 
-## 🚀 **About Me**
+## 🛠 Tech Arsenal
 
 </div>
 
-- 📈 **SEO Expert** with 5+ years optimizing websites for search engines
-- 💻 **Learning Full Stack Development** (React, Node.js, PHP)
-- 🎯 **Specializing in** SEO-optimized web development
-- 🌍 **Available for projects** in Spain and English-speaking markets
-- 📊 **Data-driven approach** to web development and digital marketing
-- 🚀 **Building websites** that rank high AND convert users
+<div align="center">
+
+### 🔥 Currently Mastering
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
+<br><strong>PHP</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 🎨 Frontend Technologies
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" />
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60" />
+<br><strong>Bootstrap</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="60" height="60" />
+<br><strong>Tailwind</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="60" height="60" />
+<br><strong>Sass</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 🔍 SEO & Analytics
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="Google Analytics" width="60" height="60" />
+<br><strong>Analytics</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Search Console" width="60" height="60" />
+<br><strong>Search Console</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Tag Manager" width="60" height="60" />
+<br><strong>Tag Manager</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Semrush_logo.svg/512px-Semrush_logo.svg.png" alt="SEMrush" width="60" height="60" />
+<br><strong>SEMrush</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### ⚙️ Development Tools
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" />
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60" />
+<br><strong>VS Code</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="60" height="60" />
+<br><strong>WordPress</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />
+<br><strong>MySQL</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 ---
 
+<br>
+
 <div align="center">
 
-## 🛠️ **Tech Stack**
+## 📈 GitHub Analytics
+
+<table>
+<tr>
+<td align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diego-landaeta&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+</td>
+<td align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-landaeta&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diego-landaeta&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diego-landaeta&theme=redical&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="100%" alt="Activity Graph" />
 
 </div>
 
-### **🔥 Currently Mastering:**
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
-### **🎨 Frontend:**
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</div>
-
-### **🔍 SEO & Marketing:**
-<div align="center">
-
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![Google Search Console](https://img.shields.io/badge/Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![SEMrush](https://img.shields.io/badge/SEMrush-FF7A00?style=for-the-badge&logo=semrush&logoColor=white)
-![Ahrefs](https://img.shields.io/badge/Ahrefs-00A971?style=for-the-badge&logo=ahrefs&logoColor=white)
-
-</div>
-
-### **⚙️ Tools & Others:**
-<div align="center">
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
+<br>
 
 ---
 
-<div align="center">
-
-## 📊 **GitHub Stats**
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diego-landaeta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-landaeta&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+<br>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=diego-landaeta&theme=tokyonight&hide_border=false)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 **My Approach: SEO + Development**
+## 🎯 The SEO + Development Formula
 
 </div>
 
 ```javascript
-const DiegoLandaeta = {
-    background: "SEO Specialist",
-    currentlyLearning: ["React", "Node.js", "PHP"],
-    specialization: "SEO-Optimized Web Development",
-    markets: ["Spain", "Latin America", "English-speaking countries"],
-    philosophy: "Build fast, rank high, convert more",
-    
-    getSEOOptimizedWebsite: function() {
-        return this.background + this.currentlyLearning + "💡";
+class DiegoLandaeta {
+    constructor() {
+        this.background = "SEO Specialist";
+        this.currentPath = "Full Stack Developer";
+        this.superpower = "SEO-Optimized Development";
+        this.markets = ["🇪🇸 Spain", "🌍 English-speaking countries"];
+        this.philosophy = "Code that ranks AND converts";
     }
-};
+
+    buildWebsite() {
+        const seo = this.optimizeForSearch();
+        const code = this.developWithModernTech();
+        const performance = this.maximizeSpeed();
+        
+        return seo + code + performance = "🚀 Digital Success";
+    }
+
+    getUniqueValue() {
+        return "I understand both sides: what search engines want " +
+               "AND how to build it with clean, modern code";
+    }
+}
 ```
 
----
-
 <div align="center">
 
-## 🌟 **What Makes Me Different**
+## 🌟 What Sets Me Apart
 
 </div>
 
-| 🔍 **SEO Expertise** | 💻 **Development Skills** | 🌍 **Global Perspective** |
-|:---:|:---:|:---:|
-| Technical SEO audits | Modern web technologies | Spain + English markets |
-| Keyword research & strategy | Performance optimization | Cultural understanding |
-| Content optimization | User experience focus | International SEO |
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🔍 SEO Mindset**
+<br>
+Every line of code considers:
+- Search engine crawlability
+- Core Web Vitals optimization  
+- Semantic HTML structure
+- Schema markup integration
+
+</td>
+<td align="center" width="33%">
+
+**💻 Modern Development**
+<br>
+Building with:
+- Component-based architecture
+- Performance-first approach
+- Mobile-responsive design
+- Progressive enhancement
+
+</td>
+<td align="center" width="33%">
+
+**🌍 Global Perspective**
+<br>
+Expertise in:
+- International SEO strategies
+- Multi-language implementations
+- Cultural adaptation
+- Local market insights
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
 
 ---
 
+<br>
+
 <div align="center">
 
-## 🚀 **Current Goals**
+## 🎨 Featured Projects & Goals
 
 </div>
 
-- 🎯 **Mastering React ecosystem** for modern frontend development
-- 🔧 **Building full-stack applications** with SEO best practices
-- 📈 **Creating tools** for SEO analysis and optimization
-- 🌍 **Expanding services** to Spanish and English-speaking markets
-- 📚 **Sharing knowledge** about SEO-driven development
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🔍 SEO Projects
+- **Technical SEO Analyzer** 🛠️  
+  *React-based audit tool*
+- **Keyword Research Dashboard** 📊  
+  *Data visualization platform*
+- **Core Web Vitals Monitor** ⚡  
+  *Performance tracking system*
+
+</td>
+<td align="center" width="50%">
+
+### 💻 Development Projects
+- **SEO-Optimized Portfolio** 🌐  
+  *React + Node.js showcase*
+- **Client Landing Pages** 🎯  
+  *High-converting designs*
+- **Learning Management System** 📚  
+  *Educational platform*
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
 
 ---
 
+<br>
+
 <div align="center">
 
-## 📫 **Let's Connect & Work Together**
+## 🤝 Let's Connect & Collaborate
+
+<table>
+<tr>
+<td align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-landaeta-garrido-75a124238/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)]()
+
+</td>
+<td align="center">
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego.a.programmer@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+
+</td>
+<td align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
-
 <div align="center">
 
-## 🎨 **Featured Projects**
+**🇻🇪 From Venezuela → 🌍 Working Globally**
+
+*Available for freelance projects and collaborations*
+
+![Profile Views](https://komarev.com/ghpvc/?username=diego-landaeta&style=for-the-badge&color=blue)
 
 </div>
 
-### 🔍 **SEO Projects**
-- **Technical SEO Analyzer** - Tool for comprehensive website audits
-- **Keyword Research Dashboard** - React-based keyword analysis tool
-- **Core Web Vitals Monitor** - Performance tracking application
-
-### 💻 **Development Projects**
-- **Portfolio Website** - SEO-optimized personal site (React + Node.js)
-- **Client Landing Pages** - High-converting, fast-loading pages
-- **SEO Learning Platform** - Educational content management system
-
----
-
 <div align="center">
 
-## ⚡ **Fun Facts**
-
-</div>
-
-- 🇻🇪 **From Venezuela** 🇪🇸 **Working globally** (Spain + English markets)
-- 📊 I can **audit a website's SEO** in under 10 minutes
-- 🚀 **Passionate about** the intersection of marketing and technology
-- 🎯 **Goal**: Build the fastest, most SEO-friendly websites possible
-- ☕ **Powered by coffee** and data-driven decisions
-
----
-
-<div align="center">
-
-### 💡 **"Bridging the gap between search engine visibility and exceptional user experience"**
-
-![Profile Views](https://komarev.com/ghpvc/?username=diego-landaeta&style=for-the-badge&color=brightgreen)
-![Followers](https://img.shields.io/github/followers/diego-landaeta?style=for-the-badge&color=blue)
-
-**⭐ Open to freelance projects and collaborations ⭐**
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:1e40af,100:60a5fa&section=footer)
 
 </div>
