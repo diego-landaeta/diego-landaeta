@@ -453,8 +453,6 @@ maintained consistently
 
 *Available for freelance projects and collaborations*
 
-![Profile Views](https://komarev.com/ghpvc/?username=diego-landaeta&style=for-the-badge&color=blue)
-
 </div>
 
 <div align="center">
