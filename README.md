@@ -30,8 +30,8 @@
 
 **🔍 Technical SEO**
 - Sites & subdomains built from scratch to ranking
-- 170K+ organic clicks · 5.3M+ impressions
-- Programmatic SEO at scale (14K+ URLs)
+- 380K+ organic clicks · 12M+ impressions (16 mo.)
+- Programmatic SEO at scale (8.6K+ indexed URLs)
 - Core Web Vitals, schema, hreflang
 
 </td>
@@ -143,20 +143,22 @@ A family of AI assistants with auth, subscriptions and SEO landing pages: **Psic
 
 ## 📈 SEO Results
 
+<sub>Google Search Console · last 16 months</sub>
+
 <table>
 <tr>
 <td align="center" width="25%">
 
 **📚 Iseie.com**
-<br>130K clicks
-<br>4.48M impressions
+<br>295K clicks
+<br>10.1M impressions
 
 </td>
 <td align="center" width="25%">
 
 **🧠 Psikoaprende.com**
-<br>12.7K clicks
-<br>484K impressions
+<br>40.6K clicks
+<br>1.74M impressions
 
 </td>
 <td align="center" width="25%">
@@ -169,8 +171,8 @@ A family of AI assistants with auth, subscriptions and SEO landing pages: **Psic
 <td align="center" width="25%">
 
 **💭 Psicologoia.ai**
-<br>1.05K clicks
-<br>10% CTR
+<br>45K clicks
+<br>386K impressions · 11.7% CTR
 
 </td>
 </tr>
