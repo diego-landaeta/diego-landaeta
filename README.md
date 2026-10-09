@@ -30,7 +30,7 @@
 
 **🔍 Technical SEO**
 - Sites & subdomains built from scratch to ranking
-- 380K+ organic clicks · 12M+ impressions (16 mo.)
+- 400K+ organic clicks · 12.6M+ impressions across 25+ sites (16 mo.)
 - Programmatic SEO at scale (8.6K+ indexed URLs)
 - Core Web Vitals, schema, hreflang
 
@@ -143,7 +143,7 @@ A family of AI assistants with auth, subscriptions and SEO landing pages: **Psic
 
 ## 📈 SEO Results
 
-<sub>Google Search Console · last 16 months (Agenciaia.ai: historical data, project closed)</sub>
+<sub>Google Search Console · last 16 months · 400K+ clicks and 12.6M+ impressions across 25+ sites (Agenciaia.ai: historical data, project closed)</sub>
 
 <table>
 <tr>
@@ -171,9 +171,9 @@ A family of AI assistants with auth, subscriptions and SEO landing pages: **Psic
 </td>
 <td align="center" width="25%">
 
-**💭 Psicologoia.ai**
-<br>45K clicks
-<br>386K impressions · 11.7% CTR
+**💭 Psicologoia.ai** <sub>+ language subdomains</sub>
+<br>54K clicks
+<br>478K impressions
 
 </td>
 </tr>
