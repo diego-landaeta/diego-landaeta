@@ -143,7 +143,7 @@ A family of AI assistants with auth, subscriptions and SEO landing pages: **Psic
 
 ## 📈 SEO Results
 
-<sub>Google Search Console · last 16 months</sub>
+<sub>Google Search Console · last 16 months (Agenciaia.ai: historical data, project closed)</sub>
 
 <table>
 <tr>
@@ -166,6 +166,7 @@ A family of AI assistants with auth, subscriptions and SEO landing pages: **Psic
 **🏢 Agenciaia.ai**
 <br>12.6K clicks
 <br>314K impressions · 4% CTR
+<br><sub>Historical · project closed</sub>
 
 </td>
 <td align="center" width="25%">
