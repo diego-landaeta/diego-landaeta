@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:1e40af,100:60a5fa&text=Diego%20Landaeta&descAlign=71&fontColor=ffffff&fontSize=80&fontAlignY=35&desc=SEO%20Specialist%20%26%20Full%20Stack%20Developer&descSize=25)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:1e40af,100:60a5fa&text=Diego%20Landaeta&descAlign=71&fontColor=ffffff&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%26%20Technical%20SEO&descSize=25)
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ## 🚀 Building products that rank AND perform
 
-*SEO Specialist & Full Stack Developer at **Iseie Innovation School** — I ship the CRMs, platforms and AI apps behind a network of online education brands, built from day one to be found on Google.*
+*Full Stack Developer & SEO Specialist at **Iseie Innovation School**. I ship the CRMs, platforms and AI apps behind a network of online education brands, and I build their websites and subdomains from day one to be found on Google.*
 
 </div>
 
@@ -19,20 +19,20 @@
 <tr>
 <td align="center" width="50%">
 
-**🔍 SEO**
-- 5+ years of technical & international SEO
-- 170K+ organic clicks · 5.3M+ impressions
-- Programmatic SEO at scale (14K+ URLs)
-- Core Web Vitals, schema, hreflang
-
-</td>
-<td align="center" width="50%">
-
 **💻 Full Stack**
 - React · TypeScript · Node.js · Next.js
 - Supabase · PostgreSQL · Edge Functions
 - Stripe payments · AI integrations (Claude, Gemini)
 - Production apps used every day by real teams
+
+</td>
+<td align="center" width="50%">
+
+**🔍 Technical SEO**
+- Sites & subdomains built from scratch to ranking
+- 170K+ organic clicks · 5.3M+ impressions
+- Programmatic SEO at scale (14K+ URLs)
+- Core Web Vitals, schema, hreflang
 
 </td>
 </tr>
@@ -205,8 +205,10 @@ A family of AI assistants with auth, subscriptions and SEO landing pages: **Psic
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-landaeta-garrido-75a124238/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alejandro-landaeta-garrido-674393411/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego.a.programmer@gmail.com)
+
+**Open to remote Full Stack / Software Engineer roles with international teams**
 
 **🇻🇪 From Venezuela → 🌍 Working globally**
 
